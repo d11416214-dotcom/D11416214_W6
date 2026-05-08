@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\bin\Debug\net10.0\D11416214_W6.exe
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\bin\Debug\net10.0\D11416214_W6.deps.json
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\bin\Debug\net10.0\D11416214_W6.runtimeconfig.json
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\bin\Debug\net10.0\D11416214_W6.dll
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\bin\Debug\net10.0\D11416214_W6.pdb
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.dll
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\refint\D11416214_W6.dll
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.pdb
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\D11416214_W6.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\D11416214_W6\D11416214_W6\D11416214_W6\obj\Debug\net10.0\ref\D11416214_W6.dll
